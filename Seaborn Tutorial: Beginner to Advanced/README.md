@@ -1,4 +1,4 @@
-## Seaborn Tutorial: Beginner to Advanced
+## Seaborn Tutorial: Beginner to Advanced  🚀
 1. Introduction
 2. Styling Plots
 3. Multiple Plots
@@ -16,3 +16,11 @@
 15. KDE Plot
 16. Heatmap
 17. Catplot
+
+## 📜License
+
+Each notes has its own license, provided in the notes folder. Unless otherwise stated, all notes adhere to Apache License 2.0.
+
+## 💬 Connect
+
+For discussions, suggestions, and more, feel free to create an issue or reach out directly!
