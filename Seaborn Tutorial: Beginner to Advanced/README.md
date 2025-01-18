@@ -1,4 +1,6 @@
 ## Seaborn Tutorial: Beginner to Advanced  🚀
+
+## 🌟 Table of Content 
 1. Introduction
 2. Styling Plots
 3. Multiple Plots
