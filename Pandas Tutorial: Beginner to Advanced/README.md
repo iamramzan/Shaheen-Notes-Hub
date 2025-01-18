@@ -1,4 +1,6 @@
-## Pandas Tutorial: Beginner to Advanced
+## Pandas Tutorial: Beginner to Advanced 🚀
+
+## 🌟 Table of Content 
 1. Introduction
 2. Creating Objects
 3. Viewing Data
@@ -11,3 +13,11 @@
 10. Working with CSV and Excel files
 11. Operations
 12. Visualization
+
+## 📜License
+
+Each notes has its own license, provided in the notes folder. Unless otherwise stated, all notes adhere to Apache License 2.0.
+
+## 💬 Connect
+
+For discussions, suggestions, and more, feel free to create an issue or reach out directly!
