@@ -1,6 +1,8 @@
-## NumPy Tutorial: Beginner to Advanced  🚀
+## Awesome NumPy Tutorial: My Personal Notes from Beginner to Advanced  🚀
 
-Welcome to the NumPy Tutorial! This comprehensive guide is designed to take you on a journey from the basics of NumPy to its advanced features, empowering you with the skills needed for effective data manipulation and numerical computing. Whether you're a beginner just getting started with NumPy or an experienced programmer looking to deepen your understanding, this tutorial has something for everyone.
+When I want to learn something, I always try to create my own notes so that I can learn them for a long time. I don't like tutorial hell because when you learn from a tutorial, after watching, it’s erased from your brain. Also, when you visit some websites, there are a lot of ads that distract you, and you can't focus on learning.
+
+That's why I created these notes on NumPy, which cover all the topics from beginner to advanced. I put a lot of effort into them. I have my notes on all artificial intelligence topics, and I will only share them further if I get a response. So please learn from these and also share them with others.
 
 ## 🌟 Table of Content 
 1. Introduction
