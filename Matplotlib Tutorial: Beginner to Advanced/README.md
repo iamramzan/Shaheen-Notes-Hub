@@ -1,6 +1,8 @@
-## Matplotlib Tutorial: Beginner to Advanced 🚀
+## Awesome Matplotlib Tutorial: My Personal Notes from Beginner to Advanced 🚀
 
-Welcome to the Matplotlib Tutorial, a comprehensive guide designed to take you from the basics of creating simple plots to mastering advanced data visualization techniques. Whether you're a beginner learning to visualize your first dataset or an advanced user exploring Matplotlib's extensive capabilities, this tutorial has something for everyone.
+When I want to learn something, I always try to create my own notes so that I can learn them for a long time. I don't like tutorial hell because when you learn from a tutorial, after watching, it’s erased from your brain. Also, when you visit some websites, there are a lot of ads that distract you, and you can't focus on learning.
+
+That's why I created these notes on Matplotlib, which cover all the topics from beginner to advanced. I put a lot of effort into them. I have my notes on all artificial intelligence topics, and I will only share them further if I get a response. So please learn from these and also share them with others.
 
 ## 🌟 Table of Content 
 1. Introduction
