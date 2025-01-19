@@ -1,6 +1,8 @@
-## Seaborn Tutorial: Beginner to Advanced  🚀
+## Awesome Seaborn Tutorial: My Personal Notes from Beginner to Advanced  🚀
 
-Welcome to the Seaborn Tutorial, your comprehensive guide to mastering Seaborn, a powerful Python library for creating informative and visually appealing statistical plots. This tutorial will guide you step-by-step, from the basics of Seaborn to advanced techniques for creating complex visualizations. Whether you're a beginner exploring data visualization or an advanced user aiming to create publication-quality plots, this tutorial is tailored for you.
+When I want to learn something, I always try to create my own notes so that I can learn them for a long time. I don't like tutorial hell because when you learn from a tutorial, after watching, it’s erased from your brain. Also, when you visit some websites, there are a lot of ads that distract you, and you can't focus on learning.
+
+That's why I created these notes on Seaborn, which cover all the topics from beginner to advanced. I put a lot of effort into them. I have my notes on all artificial intelligence topics, and I will only share them further if I get a response. So please learn from these and also share them with others.
 
 ## 🌟 Table of Content 
 1. Introduction
