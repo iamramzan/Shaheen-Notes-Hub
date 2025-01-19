@@ -1,6 +1,8 @@
-## Pandas Tutorial: Beginner to Advanced 🚀
+## Awesome Pandas Tutorial: My Personal Notes from Beginner to Advanced 🚀
 
-Welcome to the Pandas Tutorial, your ultimate guide to mastering Pandas—a powerful library for data manipulation and analysis in Python. This tutorial is structured to cater to everyone, from beginners taking their first steps in data analysis to advanced users looking to refine their skills. By the end of this tutorial, you’ll have a strong command of Pandas, enabling you to work efficiently with structured data.
+When I want to learn something, I always try to create my own notes so that I can learn them for a long time. I don't like tutorial hell because when you learn from a tutorial, after watching, it’s erased from your brain. Also, when you visit some websites, there are a lot of ads that distract you, and you can't focus on learning.
+
+That's why I created these notes on Pandas, which cover all the topics from beginner to advanced. I put a lot of effort into them. I have my notes on all artificial intelligence topics, and I will only share them further if I get a response. So please learn from these and also share them with others.
 
 ## 🌟 Table of Content 
 1. Introduction
