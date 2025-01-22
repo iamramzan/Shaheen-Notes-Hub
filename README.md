@@ -20,7 +20,7 @@ cd Shaheen-Notes-Hub
 3. Citation: If you use any Notes in your research or projects, please cite it as specified in its individual README.md.
 
 ## 📢 Contribute to the Shaheen Notes Hub
-Contributions to the Shaheen Notes Hub are welcome! You can:
+Contributions to the Shaheen Notes Hub are welcome! You can
 - Submit new notes following the repository's guidelines.
 - Report issues or suggest enhancements.
 - Help improve documentation and metadata.
